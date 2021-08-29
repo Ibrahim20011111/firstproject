@@ -6,3 +6,5 @@ NO. of province in Canada
 4. Nunavut 
 5. British Colombia 
 6. Nova Scotia 
+7. New Brunswick
+8. Newfoundland and Labrador
